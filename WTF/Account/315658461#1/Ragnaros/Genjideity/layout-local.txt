@@ -1,0 +1,15 @@
+Version: 1
+Frame: HeroTalentsSelectionDialog
+FrameLevel: 1
+Anchor: BOTTOM
+X: 0
+Y: 0
+W: 970
+H: 832
+Frame: PlayerSpellsFrame
+FrameLevel: 1
+Anchor: TOP
+X: 0
+Y: -12
+W: 1618
+H: 883

@@ -1,0 +1,15 @@
+Version: 1
+Frame: TellMeWhen_Group1
+FrameLevel: 10
+Anchor: CENTER
+X: 1
+Y: 22
+W: 30
+H: 60
+Frame: WeakAurasOptions
+FrameLevel: 1
+Anchor: BOTTOMRIGHT
+X: 168
+Y: 33
+W: 830
+H: 665

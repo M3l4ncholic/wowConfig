@@ -1,0 +1,85 @@
+VER 3 0100000000000005 " xuen" "INV_MISC_QUESTIONMARK"
+#showtooltip Invocar a Xuen, el Tigre Blanco
+/lanzar Invocar a Xuen, el Tigre Blanco
+/petattack
+/Cast tiger leap
+/usar Gran bláster rojo
+END
+VER 3 0100000000000001 "1" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [target=arena1]Parálisis
+END
+VER 3 0100000000000002 "2" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [target=arena2]Parálisis
+END
+VER 3 0100000000000003 "3" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [target=arena3]Parálisis
+END
+VER 3 010000000000001F "dps" "134400"
+#showtooltip 
+/clic [btn:1]MTSB122 LeftButton 1;[btn:2]MTSB122 RightButton 1;[btn:3]MTSB122 MiddleButton 1;[btn:4]MTSB122 Button4 1;[btn:5]MTSB122 Button5 1
+END
+VER 3 0100000000000023 "dps dispel" "134400"
+#showtooltip Depuración
+/cast [@'.. H ..']
+/cast [@Britneyféars] Depuración
+END
+VER 3 0100000000000026 "dps nr" "134400"
+#showtooltip Niebla reconfortante
+/cast [nomod,@Ngechen]
+/cast [@'.. D ..'] Niebla reconfortante
+END
+VER 3 0100000000000010 "fdisarm" "INV_MISC_QUESTIONMARK"
+#showtooltip Arrebatar arma(Talento de JcJ)
+/cast [@focus] Arrebatar arma(Talento de JcJ)
+END
+VER 3 0100000000000013 "fincap" "INV_MISC_QUESTIONMARK"
+#showtooltip Parálisis
+/cast [@focus] Parálisis
+END
+VER 3 0100000000000016 "fkick" "INV_MISC_QUESTIONMARK"
+#showtooltip Golpe de mano de lanza
+/cast [@focus] Golpe de mano de lanza
+END
+VER 3 010000000000001B "fslow" "INV_MISC_QUESTIONMARK"
+#showtooltip Incapacitar
+/cast [@focus] Incapacitar
+END
+VER 3 010000000000001E "healer" "134400"
+#showtooltip 
+/clic [btn:1]MTSB121 LeftButton 1;[btn:2]MTSB121 RightButton 1;[btn:3]MTSB121 MiddleButton 1;[btn:4]MTSB121 Button4 1;[btn:5]MTSB121 Button5 1
+END
+VER 3 0100000000000025 "healer nr" "134400"
+#showtooltip Niebla reconfortante
+/cast [@Ngechen] Niebla reconfortante
+END
+VER 3 0100000000000007 "necroshit" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [@cursor] Brebaje de polvo de hueso
+/usar Distintivo de ferocidad de Aspirante carmesí
+/usar Poción de agua salada
+END
+VER 3 0100000000000024 "nr" "134400"
+#showtooltip 
+/cast [target=mouseover, exists] Niebla reconfortante; Niebla reconfortante
+END
+VER 3 010000000000001D "serenity" "134400"
+#showtooltip 
+/lanzar Serenidad
+/usar Distintivo de ferocidad de Gladiador dracónico
+END
+VER 3 0100000000000015 "ttf" "INV_MISC_QUESTIONMARK"
+#showtooltip Tormenta, Tierra y Fuego
+/lanzar Tormenta, Tierra y Fuego
+/lanzar Furia sangrienta(Racial)
+/usar Campana divina del instructor
+/usar Distintivo de ferocidad de Aspirante carmesí
+/usar Distintivo de ferocidad de Gladiador glauco
+END
+VER 3 010000000000000E "wall" "INV_MISC_QUESTIONMARK"
+#showtooltip Brebaje reconstituyente
+/usar Emblema de Gladiador cósmico
+/lanzar Brebaje reconstituyente
+END

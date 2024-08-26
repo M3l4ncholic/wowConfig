@@ -1,0 +1,24 @@
+VER 3 0100000000000001 "1" "134400"
+#showtooltip 
+/cast [target=arena1] Martillo de Justicia
+END
+VER 3 0100000000000002 "2" "134400"
+#showtooltip 
+/cast [target=arena2] Martillo de Justicia
+END
+VER 3 0100000000000003 "3" "134400"
+#showtooltip 
+/cast [target=arena3] Martillo de Justicia
+END
+VER 3 0100000000000004 "f" "134400"
+#showtooltip 
+/cast [@focus]Reprimenda
+END
+VER 3 0100000000000005 "f" "134400"
+#showtooltip 
+/cast [@focus] Martillo de Justicia
+END
+VER 3 0100000000000006 "f" "134400"
+#showtooltip 
+/cast [@focus] Arrepentimiento
+END

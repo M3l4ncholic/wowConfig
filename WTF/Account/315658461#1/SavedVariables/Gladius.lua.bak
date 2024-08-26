@@ -1,0 +1,17 @@
+
+Gladius2DB = {
+["profileKeys"] = {
+["Retabuser - Ragnaros"] = "Retabuser - Ragnaros",
+["Melxz - Quel'Thalas"] = "Melxz - Quel'Thalas",
+},
+["profiles"] = {
+["Retabuser - Ragnaros"] = {
+["tagsVersion"] = 4,
+["drTrackerAttachTo"] = "Frame",
+},
+["Melxz - Quel'Thalas"] = {
+["tagsVersion"] = 4,
+["drTrackerAttachTo"] = "Frame",
+},
+},
+}

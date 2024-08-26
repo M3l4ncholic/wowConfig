@@ -1,0 +1,131 @@
+
+MacroToolkitDB = {
+["char"] = {
+["Retabuser - Ragnaros"] = {
+["macros"] = {
+[138] = {
+["icon"] = "3565448",
+["name"] = "td",
+["body"] = "#showtooltip \n/usar Tañido divino\n/usar Distintivo de ferocidad de Aspirante obsidiana\n",
+},
+[122] = {
+["icon"] = "135959",
+["name"] = "1",
+["body"] = "#showtooltip \n/cast [target=arena1]Sentencia\n",
+},
+[126] = {
+["icon"] = "134400",
+["name"] = "asd",
+["body"] = "#showtooltip \n/cast [target=mouseover, exists] Choque Sagrado; Choque Sagrado\n",
+},
+[132] = {
+["icon"] = "135878",
+["name"] = "fr",
+["body"] = "#showtooltip\n/cast [@cursor] Juicio final\n/usar Distintivo de ferocidad de Aspirante obsidiana\n",
+},
+[131] = {
+["icon"] = "523893",
+["name"] = "fkick",
+["body"] = "#showtooltip \n/cast [@focus] Reprimenda\n",
+},
+[123] = {
+["icon"] = "135963",
+["name"] = "2",
+["body"] = "#showtooltip \n/cqs\n/cast [target=arena2]Martillo de Justicia\n",
+},
+[127] = {
+["icon"] = "255346",
+["name"] = "bigdick",
+["body"] = "#showtooltip \n/lanzar Cruzada\n",
+},
+[124] = {
+["icon"] = "135963",
+["name"] = "3",
+["body"] = "#showtooltip \n/cqs\n/cast [target=arena3]Martillo de Justicia\n",
+},
+[137] = {
+["icon"] = "236264",
+["name"] = "shield",
+["body"] = "#showtooltip Escudo de venganza\n/usar Emblema de Gladiador carmesí\n/lanzar Escudo de venganza\n",
+},
+[135] = {
+["icon"] = "134400",
+["name"] = "prisma",
+["body"] = "#showtooltip \n/cast [target=mouseover, exists] Prisma Sagrado; Prisma Sagrado\n",
+},
+[129] = {
+["icon"] = "134400",
+["name"] = "fear",
+["body"] = "#showtooltip \n/cast [target=mouseover, exists] Ahuyentar el mal; Ahuyentar el mal\n",
+},
+[136] = {
+["icon"] = "135966",
+["name"] = "sac",
+["body"] = "#showtooltip \n/cast [target=mouseover, exists] Bendición de sacrificio; Bendición de sacrificio\n",
+},
+[121] = {
+["icon"] = "135963",
+["name"] = "1",
+["body"] = "#showtooltip \n/cqs\n/cast [target=arena1]Martillo de Justicia\n",
+},
+[125] = {
+["icon"] = "135984",
+["name"] = "agropet",
+["body"] = "#showtooltip Mano de expiación\n/cast [@arenapet1] Mano de expiación\n/cast [@arenapet2] Mano de expiación\n/cast [@arenapet3] Mano de expiación\n",
+},
+[130] = {
+["icon"] = "135963",
+["name"] = "fhoj",
+["body"] = "#showtooltip \n/cast [@focus] Martillo de Justicia\n",
+},
+[133] = {
+["icon"] = "134400",
+["name"] = "frepe",
+["body"] = "#showtooltip \n/cast [@focus]Arrepentimiento\n",
+},
+},
+},
+["Melxz - Quel'Thalas"] = {
+["macros"] = {
+[122] = {
+["icon"] = "135963",
+["name"] = "2",
+["body"] = "#showtooltip \n/cast [target=arena2] Martillo de Justicia\n",
+},
+[124] = {
+["icon"] = "135963",
+["name"] = "f",
+["body"] = "#showtooltip \n/cast [@focus] Martillo de Justicia\n",
+},
+[126] = {
+["icon"] = "523893",
+["name"] = "f",
+["body"] = "#showtooltip \n/cast [@focus]Reprimenda\n",
+},
+[121] = {
+["icon"] = "135963",
+["name"] = "1",
+["body"] = "#showtooltip \n/cast [target=arena1] Martillo de Justicia\n",
+},
+[123] = {
+["icon"] = "135963",
+["name"] = "3",
+["body"] = "#showtooltip \n/cast [target=arena3] Martillo de Justicia\n",
+},
+[125] = {
+["icon"] = "134400",
+["name"] = "f",
+["body"] = "#showtooltip \n/cast [@focus] Arrepentimiento\n",
+},
+},
+},
+},
+["profileKeys"] = {
+["Retabuser - Ragnaros"] = "profile",
+["Melxz - Quel'Thalas"] = "profile",
+},
+["profiles"] = {
+["profile"] = {
+},
+},
+}

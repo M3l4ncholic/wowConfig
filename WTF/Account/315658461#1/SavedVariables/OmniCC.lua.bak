@@ -1,0 +1,58 @@
+
+OmniCCDB = {
+["profileKeys"] = {
+["Retabuser - Ragnaros"] = "Predeterminado",
+["Melxz - Quel'Thalas"] = "Predeterminado",
+},
+["global"] = {
+["dbVersion"] = 6,
+["addonVersion"] = "11.0.1",
+},
+["profiles"] = {
+["Predeterminado"] = {
+["rules"] = {
+{
+["enabled"] = false,
+["patterns"] = {
+"Aura",
+"Buff",
+"Debuff",
+},
+["name"] = "Auras",
+["id"] = "auras",
+},
+{
+["enabled"] = false,
+["patterns"] = {
+"Plate",
+},
+["name"] = "Placas de nombre",
+["id"] = "plates",
+},
+{
+["enabled"] = false,
+["patterns"] = {
+"ActionButton",
+"MultiBar",
+},
+["name"] = "Barras de acción",
+["id"] = "actions",
+},
+},
+["themes"] = {
+["Predeterminado"] = {
+["textStyles"] = {
+["soon"] = {
+},
+["seconds"] = {
+},
+["minutes"] = {
+},
+},
+["fontSize"] = 15,
+},
+},
+},
+},
+}
+OmniCC4Config = nil

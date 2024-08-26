@@ -1,0 +1,48 @@
+
+DFFriendlyNamePlates = {
+["NamePlatesHealthBar"] = {
+true,
+80,
+45,
+},
+["NamePlatesSettings"] = {
+true,
+},
+["NamePlatesFontSettings"] = {
+"Fonts\\FRIZQT__.TTF",
+12,
+"",
+"Default",
+false,
+},
+["NamePlatesGeneralSettings"] = {
+true,
+true,
+false,
+},
+["NamePlatesFriendlySettings"] = {
+false,
+true,
+true,
+true,
+true,
+true,
+false,
+true,
+true,
+},
+["CNamePlatesSettings"] = {
+false,
+},
+["NamePlatesEnemySettings"] = {
+false,
+true,
+true,
+true,
+true,
+true,
+false,
+true,
+true,
+},
+}

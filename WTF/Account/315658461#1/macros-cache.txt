@@ -1,0 +1,380 @@
+VER 3 000000000000025B " " "237519"
+#showtooltip 
+/lanzar Golpe purulento
+END
+VER 3 00000000000000D8 " " "1029008"
+#showtooltip
+/cast [@cursor] Muerte y descomposición
+END
+VER 3 00000000000000D2 "  flag" "INV_MISC_QUESTIONMARK"
+#showtooltip Bandera de victoria del señor de la Guerra
+/usar Bandera de victoria del señor de la Guerra
+/usar Bandera de victoria de la Alianza
+/usar Bandera de victoria de destructor
+END
+VER 3 0000000000000190 " 1" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cqs
+/cast [target=arena1]Arrebatar arma(Talento de JcJ)
+END
+VER 3 0000000000000224 "1" "134400"
+#showtooltip 
+/cqs
+/cast [target=arena1] Golpe de mano de lanza
+END
+VER 3 000000000000025D "1" "134400"
+#showtooltip 
+/cast [target=arena1] Helada mental
+END
+VER 3 0000000000000260 "1" "134400"
+#showtooltip 
+/cast [target=arena1] Atracción letal
+END
+VER 3 000000000000021F "1" "134400"
+#showtooltip 
+/cqs
+/cast [target=arena1]Reprimenda
+END
+VER 3 00000000000001F6 "1" "134400"
+#showtooltip 
+/cqs
+/cast [target=arena1] Desactivar(Talento de JcJ)
+END
+VER 3 0000000000000215 "13" "134400"
+#showtooltip 
+/usar 13
+END
+VER 3 0000000000000216 "14" "134400"
+#showtooltip 
+/usar 14
+END
+VER 3 0000000000000261 "2" "134400"
+#showtooltip 
+/cast [target=arena2] Atracción letal
+END
+VER 3 0000000000000220 "2" "134400"
+#showtooltip 
+/cqs
+/cast [target=arena2]Reprimenda
+END
+VER 3 0000000000000225 "2" "134400"
+#showtooltip 
+/cqs
+/cast [target=arena2] Golpe de mano de lanza
+END
+VER 3 000000000000025E "2" "134400"
+#showtooltip 
+/cast [target=arena2] Helada mental
+END
+VER 3 00000000000001F7 "2" "134400"
+#showtooltip 
+/cqs
+/cast [target=arena2] Desactivar(Talento de JcJ)
+END
+VER 3 0000000000000191 "2" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cqs
+/cast [target=arena2]Arrebatar arma(Talento de JcJ)
+END
+VER 3 0000000000000262 "3" "134400"
+#showtooltip 
+/cast [target=arena3] Atracción letal
+END
+VER 3 000000000000025F "3" "134400"
+#showtooltip 
+/cast [target=arena3] Helada mental
+END
+VER 3 0000000000000221 "3" "134400"
+#showtooltip 
+/cqs
+/cast [target=arena3]Reprimenda
+END
+VER 3 0000000000000226 "3" "134400"
+#showtooltip 
+/cqs
+/cast [target=arena3] Golpe de mano de lanza
+END
+VER 3 0000000000000192 "3" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cqs
+/cast [target=arena3]Arrebatar arma(Talento de JcJ)
+END
+VER 3 00000000000001F8 "3" "134400"
+#showtooltip 
+/cqs
+/cast [target=arena3] Desactivar(Talento de JcJ)
+END
+VER 3 0000000000000107 "AAP_MACRO" "INV_MISC_QUESTIONMARK"
+/script print('no button yet')
+END
+VER 3 00000000000000A7 "arena1" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [target=arena1]
+END
+VER 3 000000000000024E "bl" "134400"
+#showtooltip
+/lanzar Belicista
+/lanzar Actitud de batalla
+/usar Distintivo de ferocidad de Gladiador dracónico
+END
+VER 3 000000000000026F "bop" "134400"
+#showtooltip 
+/cast [target=mouseover, exists] Bendición de protección; Bendición de protección
+END
+VER 3 000000000000026D "bop" "134400"
+#showtooltip 
+/cast [target=mouseover, exists] Bendición de protección; Bendición de protección
+END
+VER 3 0000000000000250 "bop/mbop" "134400"
+#showtooltip [known:204018] Bendición de hechizos conjurados; Bendición de protección 
+/clic [btn:1]MTSB1 LeftButton 1;[btn:2]MTSB1 RightButton 1;[btn:3]MTSB1 MiddleButton 1;[btn:4]MTSB1 Button4 1;[btn:5]MTSB1 Button5 1
+END
+VER 3 00000000000000ED "cancelallshitB" "134400"
+#showtooltip 
+/cancelaura Bendición de libertad
+/cancelaura Bendición de protección
+/cancelaura Puños de furia
+/cancelaura Filotormenta
+/cancelaura Alterar el tiempo
+/cancelaura Caída lenta
+END
+VER 3 00000000000000DE "cd" "135893"
+#showtooltip
+/castsequence Aura de cruzado, Aura de devoción
+END
+VER 3 00000000000001ED "cr" "135933"
+#showtooltip
+/castsequence Aura de cruzado, Aura de reprensión
+END
+VER 3 0000000000000217 "cs" "134400"
+#showtooltip
+/startattack
+/lanzar Martillo de cólera
+END
+VER 3 00000000000001E0 "ct" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [target=mouseover, exists] Limpiar toxinas; Limpiar toxinas
+END
+VER 3 0000000000000251 "cukum" "134400"
+#showtooltip 
+/cast [target=mouseover, exists] Crisálida vital; Crisálida vital
+END
+VER 3 00000000000001DF "destello" "135907"
+#showtooltip 
+/cast [target=mouseover, exists] Destello de Luz; Destello de Luz
+END
+VER 3 0000000000000229 "dispel" "134400"
+#showtooltip 
+/cast [target=mouseover, exists] Depuración; Depuración
+END
+VER 3 0000000000000239 "dps bop" "134400"
+#showtooltip Bendición de protección
+/cast [@Levelboostx]
+/cast [@Totemsitter] Bendición de protección
+END
+VER 3 0000000000000240 "dps clean" "134400"
+#showtooltip Limpiar toxinas
+/cast [@Levelboostx]
+/cast [@Totemsitter] Limpiar toxinas
+END
+VER 3 0000000000000256 "dps d" "134400"
+#showtooltip Depuración
+/cast [nomod,@Ngechen]
+/cast [@'.. D ..'] Depuración
+END
+VER 3 000000000000023C "dps destello" "135907"
+#showtooltip Destello de Luz
+/cast [@Levelboostx]
+/cast [@Totemsitter] Destello de Luz
+END
+VER 3 0000000000000232 "dps freedom" "134400"
+#showtooltip Bendición de libertad
+/cast [@Levelboostx]
+/cast [@Totemsitter] Bendición de libertad
+END
+VER 3 000000000000023A "dps lay" "135928"
+#showtooltip Imposición de manos
+/cast [@Levelboostx]
+/cast [@Totemsitter] Imposición de manos
+END
+VER 3 0000000000000243 "dps mbop" "134400"
+#showtooltip Bendición de hechizos conjurados
+/cast [@Levelboostx]
+/cast [@Totemsitter] Bendición de hechizos conjurados
+END
+VER 3 0000000000000235 "dps sac" "134400"
+#showtooltip Bendición de sacrificio
+/cast [@Levelboostx]
+/cast [@Totemsitter] Bendición de sacrificio
+END
+VER 3 0000000000000236 "dps sanc" "134400"
+#showtooltip Bendición del santuario(Talento de JcJ)
+/cast [@Levelboostx]
+/cast [@Totemsitter] Bendición del santuario(Talento de JcJ)
+END
+VER 3 0000000000000246 "dps tiger" "134400"
+#showtooltip Deseo del tigre
+/cast [@Ngechen]
+/cast [@'.. D ..'] Deseo del tigre
+END
+VER 3 0000000000000257 "dps vivificar" "134400"
+#showtooltip Vivificar
+/cast [nomod,@Ngechen]
+/cast [@'.. D ..'] Vivificar
+END
+VER 3 000000000000023E "dps wog" "134400"
+#showtooltip Palabra de gloria
+/cast [@Levelboostx]
+/cast [@Totemsitter] Palabra de gloria
+END
+VER 3 0000000000000259 "dv" "134400"
+#showtooltip
+/cast [@cursor] Devastador
+END
+VER 3 000000000000026C "fear" "134400"
+#showtooltip 
+/cast [target=mouseover, exists] Ahuyentar el mal; Ahuyentar el mal
+END
+VER 3 0000000000000267 "fear" "134400"
+#showtooltip
+/cast [@cursor] Sello de miseria
+END
+VER 3 000000000000021A "focus target" "136082"
+/focus [@mouseover,exists,nodead] []
+END
+VER 3 0000000000000223 "fr/es" "134400"
+#showtooltip [known:Juicio final]Juicio final; [known:Sentencia de ejecución]Sentencia de ejecución;
+/cast [known:Juicio final,@cursor] Juicio final; [known:Sentencia de ejecución]Sentencia de ejecución;
+/usar 14
+END
+VER 3 0000000000000227 "freedom" "134400"
+#showtooltip 
+/cast [target=mouseover, exists] Deseo del tigre; Deseo del tigre
+END
+VER 3 00000000000001E2 "freedom" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [target=mouseover, exists] Bendición de libertad; Bendición de libertad
+END
+VER 3 00000000000001F1 "fsll" "134400"
+#showtooltip 
+/cast [@focus] Sigilo de la llama
+END
+VER 3 000000000000024F "healer bop" "134400"
+#showtooltip Bendición de protección
+/cast [@Levelboostx] Bendición de protección
+END
+VER 3 0000000000000241 "healer clean" "134400"
+#showtooltip Limpiar toxinas
+/cast [@Levelboostx] Limpiar toxinas
+END
+VER 3 0000000000000255 "healer d" "134400"
+#showtooltip Depuración
+/cast [@Ngechen] Depuración
+END
+VER 3 000000000000023D "healer destello" "135907"
+#showtooltip Destello de Luz
+/cast [@Levelboostx] Destello de Luz
+END
+VER 3 0000000000000233 "healer freedom" "134400"
+#showtooltip Bendición de libertad
+/cast [@Levelboostx] Bendición de libertad
+END
+VER 3 000000000000023B "healer lay" "134400"
+#showtooltip Imposición de manos
+/cast [@Levelboostx] Imposición de manos
+END
+VER 3 0000000000000242 "healer mbop" "134400"
+#showtooltip Bendición de hechizos conjurados
+/cast [@Levelboostx] Bendición de hechizos conjurados
+END
+VER 3 0000000000000234 "healer sac" "134400"
+#showtooltip Bendición de sacrificio
+/cast [@Levelboostx] Bendición de sacrificio
+END
+VER 3 0000000000000237 "healer sanc" "134400"
+#showtooltip Bendición del santuario(Talento de JcJ)
+/cast [@Levelboostx] Bendición del santuario(Talento de JcJ)
+END
+VER 3 0000000000000254 "healer tiger" "134400"
+#showtooltip Deseo del tigre
+/cast [@Ngechen] Deseo del tigre
+END
+VER 3 0000000000000258 "healer vivificar" "134400"
+#showtooltip Vivificar
+/cast [@Ngechen] Vivificar
+END
+VER 3 000000000000023F "healer wog" "134400"
+#showtooltip Palabra de gloria
+/cast [@Levelboostx] Palabra de gloria
+END
+VER 3 000000000000024D "lanza" "134400"
+#showtooltip
+/cast [@cursor] Lanza de Bastión
+END
+VER 3 00000000000001E3 "lay" "135928"
+#showtooltip 
+/cast [target=mouseover, exists] Imposición de manos; Imposición de manos
+END
+VER 3 000000000000017A "lemons" "134400"
+#showtooltip Piedra de salud
+/usar Piedra de salud
+END
+VER 3 00000000000001F2 "lj" "134400"
+#showtooltip 
+/cast [target=mouseover, exists] Lanzar guja; Lanzar guja
+END
+VER 3 0000000000000266 "meta" "134400"
+#showtooltip
+/cast [@cursor] Metamorfosis
+END
+VER 3 000000000000017B "mt" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [noflyable]  Sable de la noche darnassiano; [flyable] Dragón nimbo astral
+END
+VER 3 000000000000021D "mythics" "134400"
+#showtooltip
+/castsequence Aura de cruzado, Aura de reprensión
+END
+VER 3 0000000000000269 "nr" "134400"
+#showtooltip 
+/cast [target=mouseover, exists] Niebla reconfortante; Niebla reconfortante
+END
+VER 3 0000000000000245 "pveshit" "135875"
+#showtooltip 
+/lanzar Cólera vengativa
+/usar Distintivo de ferocidad de Gladiador dracónico
+/usar Esporas de prontitud
+END
+VER 3 000000000000026A "sac" "134400"
+#showtooltip 
+/cast [target=mouseover, exists] Bendición de sacrificio; Bendición de sacrificio
+END
+VER 3 000000000000026E "sac" "134400"
+#showtooltip 
+/cast [target=mouseover, exists] Bendición de sacrificio; Bendición de sacrificio
+END
+VER 3 0000000000000265 "sf" "134400"
+#showtooltip
+/cast [@cursor] Sello de llamas
+END
+VER 3 000000000000010D "slow" "INV_MISC_QUESTIONMARK"
+#showtooltip Incapacitar
+/use [@target,exists] Incapacitar
+END
+VER 3 000000000000025A "temeridad" "134400"
+#showtooltip 
+/lanzar Temeridad
+/usar Distintivo de ferocidad de Gladiador dracónico
+END
+VER 3 000000000000022B "vivificar" "134400"
+#showtooltip 
+/cast [target=mouseover, exists] Vivificar; Vivificar
+END
+VER 3 00000000000001DE "wog" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [target=mouseover, exists] Palabra de gloria; Palabra de gloria
+END
+VER 3 0000000000000263 "wwwww" "237515"
+#showtooltip 
+/lanzar Golpe de la Plaga
+END

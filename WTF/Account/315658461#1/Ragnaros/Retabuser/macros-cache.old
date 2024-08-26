@@ -1,0 +1,80 @@
+VER 3 0100000000000058 "1" "134400"
+#showtooltip 
+/cast [target=arena1]Sentencia
+END
+VER 3 0100000000000051 "1" "134400"
+#showtooltip 
+/cqs
+/cast [target=arena1]Martillo de Justicia
+END
+VER 3 0100000000000052 "2" "134400"
+#showtooltip 
+/cqs
+/cast [target=arena2]Martillo de Justicia
+END
+VER 3 0100000000000053 "3" "134400"
+#showtooltip 
+/cqs
+/cast [target=arena3]Martillo de Justicia
+END
+VER 3 0100000000000055 "agropet" "134400"
+#showtooltip Mano de expiación
+/cast [@arenapet1] Mano de expiación
+/cast [@arenapet2] Mano de expiación
+/cast [@arenapet3] Mano de expiación
+END
+VER 3 010000000000005B "asd" "134400"
+#showtooltip 
+/cast [target=mouseover, exists] Choque Sagrado; Choque Sagrado
+END
+VER 3 010000000000004B "bigdick" "134400"
+#showtooltip 
+/lanzar Cruzada
+END
+VER 3 010000000000004D "dps" "INV_Misc_QuestionMark"
+#showtooltip 
+/clic [btn:1]MTSB122 LeftButton 1;[btn:2]MTSB122 RightButton 1;[btn:3]MTSB122 MiddleButton 1;[btn:4]MTSB122 Button4 1;[btn:5]MTSB122 Button5 1
+END
+VER 3 0100000000000050 "fear" "134400"
+#showtooltip 
+/cast [target=mouseover, exists] Ahuyentar el mal; Ahuyentar el mal
+END
+VER 3 010000000000004F "fhoj" "135963"
+#showtooltip 
+/cast [@focus] Martillo de Justicia
+END
+VER 3 010000000000004E "fkick" "523893"
+#showtooltip 
+/cast [@focus] Reprimenda
+END
+VER 3 0100000000000059 "fr" "134400"
+#showtooltip
+/cast [@cursor] Juicio final
+/usar Distintivo de ferocidad de Aspirante obsidiana
+END
+VER 3 0100000000000057 "frepe" "134400"
+#showtooltip 
+/cast [@focus]Arrepentimiento
+END
+VER 3 010000000000004C "healer" "INV_Misc_QuestionMark"
+#showtooltip 
+/clic [btn:1]MTSB121 LeftButton 1;[btn:2]MTSB121 RightButton 1;[btn:3]MTSB121 MiddleButton 1;[btn:4]MTSB121 Button4 1;[btn:5]MTSB121 Button5 1
+END
+VER 3 010000000000005A "prisma" "134400"
+#showtooltip 
+/cast [target=mouseover, exists] Prisma Sagrado; Prisma Sagrado
+END
+VER 3 010000000000004A "sac" "134400"
+#showtooltip 
+/cast [target=mouseover, exists] Bendición de sacrificio; Bendición de sacrificio
+END
+VER 3 0100000000000054 "shield" "134400"
+#showtooltip Escudo de venganza
+/usar Emblema de Gladiador carmesí
+/lanzar Escudo de venganza
+END
+VER 3 0100000000000056 "td" "134400"
+#showtooltip 
+/usar Tañido divino
+/usar Distintivo de ferocidad de Aspirante obsidiana
+END
