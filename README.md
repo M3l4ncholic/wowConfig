@@ -1,1 +1,2 @@
 # wowConfig
+Retail configuration
